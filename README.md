@@ -1,2 +1,2 @@
-# HelloWorld
+# HelloWorld beginner project
 First tiem
